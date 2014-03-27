@@ -7,6 +7,16 @@
   background-color: #f5f5f5;
 }
 
+/*Customize Container*/
+.container {
+  width: 970px;
+  max-width: none !important;
+}
+
 .container .text-muted {
   margin: 20px 0;
+}
+
+body > .main-canvas >.container {
+  padding: 60px 15px 0;
 }

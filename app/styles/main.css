@@ -17,6 +17,6 @@
   margin: 20px 0;
 }
 
-body > .main-canvas >.container {
+body > .main-canvas > .mid-content > .container {
   padding: 60px 15px 0;
 }
